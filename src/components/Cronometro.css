@@ -1,0 +1,14 @@
+.body{
+    background-color: blueviolet;
+    border: white, solid 5px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 400px;
+    width: 500px;
+    height: 170px;
+}
+
+.butoes{
+    padding: 10px;
+    
+}
